@@ -35,7 +35,7 @@ A web app that helps users build resumes and check ATS compatibility scores.
 
  📫 Connect With Me
 - LinkedIn: [your-linkedin-link]
-- Email: khushikhushi88646email@example.com
+- Email: khushikhushi88646@gmail.com
 
 ---
 ⭐️ Always open to learning and collaborating on new projects!
