@@ -23,10 +23,6 @@ Tools: Git, GitHub, VS Code
 
  💼 Featured Projects
 
- 🔹 [Smart Attendance System](In Progress)
-A face-recognition based attendance system built with Python and Flask.
-`Python` `Flask` `face_recognition` `OpenCV`
-
  🔹 [BCA Event Gate Entry Verification System](In Progress)
 Face-recognition based gate entry verification tool built as a School of Computing mini project.
 `Python` `Flask` `face_recognition` `SQLite`
