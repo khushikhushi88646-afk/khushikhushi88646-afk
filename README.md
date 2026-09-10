@@ -13,7 +13,7 @@ I'm a Computer Applications student passionate about building practical, real-wo
 
 🛠️ Skills
 
-Languages: Python, C, C++, JavaScript
+Languages: Java, Python, C, C++, JavaScript
 Web: HTML, CSS, JavaScript
 Frameworks/Libraries: Flask, Firebase
 Concepts: Data Structures & Algorithms, Machine Learning Basics
